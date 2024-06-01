@@ -1,0 +1,5 @@
+cloudifare backend use prisma connection pool url --> this url will be on "wrangler.toml file"
+
+"npx prisma migrate dev"  this type of cli command use main postgres database url--> this url will be on ".env file"
+
+
